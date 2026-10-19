@@ -1,99 +1,99 @@
 <div align="center">
 
-  # Olá, eu sou João Miguel! 👋
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Lua+%26+JavaScript;Criador+de+Scripts+para+Roleplay;Entusiasta+de+Bots+%26+Automa%C3%A7%C3%B5es;Apaixonado+por+Tecnologia+%26+Gaming)](https://git.io/typing-svg)
+  <h1>João Miguel</h1>
+  <p><b>Desenvolvedor de Software | Full-Stack & Backend Enthusiast</b></p>
 
-  <p align="center">
-    <b>Focado em desenvolvimento de scripts para servidores de Roleplay, bots e aplicações com Node.js e Lua.</b>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/joaomiguelcode?tab=repositories">
-      <img src="https://img.shields.io/badge/Projetos-Explorar-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 🎮 **Desenvolvimento de Games & RP**: Criação e customização de scripts e sistemas em **Lua** para servidores de Roleplay (*FiveM*).
-- ⚙️ **Automação & Bots**: Desenvolvimento de bots e ferramentas integradas com **Node.js / JavaScript** (como bots de PUBG, integrações Discord/API).
-- 💡 **Foco**: Otimização de performance, arquitetura limpa e criação de experiências imersivas.
-- 🎯 **Objetivo**: Aprimorar continuamente minhas habilidades em backend, infraestrutura e desenvolvimento full-stack.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-  <!-- Linguagens & Runtimes -->
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Lua;React+%E2%80%A2+Node.js+%E2%80%A2+APIs+RESTful;Desenvolvimento+de+Sistemas+%26+Automa%C3%A7%C3%B5es;Buscando+sempre+c%C3%B3digo+limpo+e+alta+performance)](https://git.io/typing-svg)
 
   <br/>
 
-  <!-- Ferramentas & Bancos -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-</div>
-
----
-
-### 🚀 Principais Projetos
-
-| Repositório | Descrição | Stack |
-| :--- | :--- | :---: |
-| 🏙️ [**cidade-dos-artistas**](https://github.com/joaomiguelcode/cidade-dos-artistas) | Framework e scripts imersivos para comunidade de Roleplay | `Lua` |
-| 🇧🇷 [**brasilandia-roleplay**](https://github.com/joaomiguelcode/brasilandia-roleplay) | Sistemas e mecânicas personalizadas para servidor RP | `Lua` |
-| 🛡️ [**cidade-santa-roleplay**](https://github.com/joaomiguelcode/cidade-santa-roleplay) | Recursos e infraestrutura para servidor roleplay | `Lua` |
-| 🤖 [**bot-pubg-node**](https://github.com/joaomiguelcode/bot-pubg-node) | Bot de automação e integração para PUBG em Node.js | `JavaScript` `Node.js` |
-| ⚡ [**strike-zero**](https://github.com/joaomiguelcode/strike-zero) | Projeto e utilitários em JavaScript | `JavaScript` |
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomiguelcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiguelcode&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaomiguelcode&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
-</div>
-
----
-
-### 📫 Conecte-se comigo
-
-<div align="center">
-
-  <!-- Personalize os links abaixo com suas redes e contatos -->
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/603256653118308354" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:joaomiguelcruz68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/joaomiguelcode">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>
 
+<br/>
+
+### 📌 Sobre
+
+- 🚀 Desenvolvedor focado na construção de aplicações web modernas, APIs e automações.
+- 💡 Experiência prática com **Python**, ecossistema **JavaScript/TypeScript** (**Node.js**, **React**) e scripts avançados em **Lua**.
+- 🛠️ Criação de integrações de sistemas, bots para comunidades e soluções para servidores de jogos/roleplay.
+- 🎯 Apaixonado por arquitetura de software, boas práticas de código e aprendizado contínuo.
+
 ---
 
+### 💻 Stack & Tecnologias
+
+<table>
+  <tr>
+    <td align="left" width="220"><b>Linguagens</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Backend & Runtimes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Bancos & Ferramentas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Repositórios em Destaque
+
+| Repositório | Descrição | Principais Tecnologias |
+| :--- | :--- | :--- |
+| 🏙️ [**cidade-dos-artistas**](https://github.com/joaomiguelcode/cidade-dos-artistas) | Framework e sistemas interativos para servidor de Roleplay | `Lua` `MySQL` |
+| 🤖 [**bot-pubg-node**](https://github.com/joaomiguelcode/bot-pubg-node) | Automação e integração de dados para PUBG | `Node.js` `JavaScript` |
+| ⚡ [**strike-zero**](https://github.com/joaomiguelcode/strike-zero) | Utilitários e lógicas modulares em JavaScript | `JavaScript` |
+| 🛡️ [**cidade-santa-roleplay**](https://github.com/joaomiguelcode/cidade-santa-roleplay) | Módulos e mecânicas personalizadas para comunidade RP | `Lua` |
+
+---
+
+### 📈 Estatísticas do GitHub
+
 <div align="center">
-  <sub>⭐ Criado para o perfil de <b>João Miguel</b> (<a href="https://github.com/joaomiguelcode">@joaomiguelcode</a>)</sub>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaomiguelcode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiguelcode&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Desenvolvido com foco e dedicação por <b>João Miguel</b> • <a href="https://github.com/joaomiguelcode">@joaomiguelcode</a></sub>
 </div>
